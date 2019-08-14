@@ -1,6 +1,12 @@
 # File-API
 封装了Android 的文件操作
 
+#### 
+```
+implementation 'com.erlei:file-api:1.0'
+implementation 'com.android.support:support-annotations:28.0.0'
+```
+
 #### FileAPI
 
 ```JAVA
